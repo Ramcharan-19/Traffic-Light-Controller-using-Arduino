@@ -17,7 +17,7 @@ The **Traffic Light Controller** is an Arduino-based project designed to simulat
 - 🔄 **Push Button (for pedestrian crossing feature, optional)**
 
 ## 🔗 Circuit Diagram
-![Alt Text](C:\Users\chara\OneDrive\Pictures\Screenshots\CIRCUIT DIAGRAM.png)
+![Traffic Light Controller]([https://example.com/your-image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcircuitdigest.com%2Fmicrocontroller-projects%2Farduino-traffic-light-controller-project&psig=AOvVaw0zPomKHHewQB6zabs737S6&ust=1739549752347000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCNx4KGwYsDFQAAAAAdAAAAABAJ))
 
 ## 🔬 Working Principle
 1. **Green Light ON (5 sec)** – Vehicles can move forward.
